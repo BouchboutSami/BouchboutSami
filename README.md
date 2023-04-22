@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BouchboutSami
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Developing Discord bots
 - 📫 How to reach me : ks_bouchbout@esi.dz or on discord SamExtremum#6047
 
 <!---
