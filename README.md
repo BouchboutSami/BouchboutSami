@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BouchboutSami
 - 👀 I’m interested in Web Development and Machine Learning
-- 📫 How to reach me : ks_bouchbout@esi.dz or on discord SamExtremum#6047
+- 📫 How to reach me : sami-anis.bouchbout@epita.fr or on discord samextremum
 
 <!---
 BouchboutSami/BouchboutSami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
