@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BouchboutSami
-- 👀 I’m looking for a 12-month internship for my 2nd year in "Data governance" master 
 - 📫 How to reach me : sami-anis.bouchbout@epita.fr or on discord samextremum
 
 <!---
